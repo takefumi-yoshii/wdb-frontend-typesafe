@@ -1,0 +1,15 @@
+{
+  "name": "component-typesafe",
+  "version": "1.0.0",
+  "private": "true",
+  "description": "WEB+DB PRESS vol.128〜連載「フロントエンドコンポーネント駆動開発」のサンプルコード集",
+  "devDependencies": {
+    "@types/node": "^17.0.42",
+    "@types/react": "^18.0.12",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
